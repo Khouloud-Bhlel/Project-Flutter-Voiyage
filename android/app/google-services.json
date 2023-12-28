@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551970337029",
+    "project_id": "nextproject-69a9f",
+    "storage_bucket": "nextproject-69a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551970337029:android:539124c51563e7520d076c",
+        "android_client_info": {
+          "package_name": "com.example.atelier3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551970337029-1iim4t47oh0h53l71e9u7k5bf5djlmb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVm50q1aZ4ge1IC8LQA9IPQ-qO8k8CcoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551970337029-1iim4t47oh0h53l71e9u7k5bf5djlmb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
